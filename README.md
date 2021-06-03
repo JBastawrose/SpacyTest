@@ -1,1 +1,2 @@
 # SpacyTest
+This was a simple experiment to try and reduce the amount of repititious work around responding to RFP's.  Often, customers will ask similar questions, but phrased in somewhat different ways, which all require a saleperson or other respondant to reply with similar answers.  The goal was to teach the Spacy model by inputting a wide array of similarly asked questions so that we could ultimately search against it, find the most similar, and review answers that were provided to customers in the past.
